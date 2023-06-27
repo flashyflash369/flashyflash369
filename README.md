@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flashyflash369
 - 👀 I’m interested in 3D graphics
-- 🌱 I’m currently learning unit3d
+- 🌱 I’m currently learning the Unity's new input system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
