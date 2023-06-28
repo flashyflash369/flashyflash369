@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flashyflash369
 - 👀 I’m interested in 3D graphics
-- 🌱 I’m currently learning the Unity's new input system
+- 🌱 I’m currently learning the Unity's new input system && javafx
 
 <!---
 flashyflash369/flashyflash369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
